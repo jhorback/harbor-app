@@ -1,0 +1,28 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<dom-module id="harbor-app">
+  <template>
+    <style>
+      :host {
+        display: block;
+      }
+    </style>
+    <h2>Hello [[prop1]]</h2>
+    How are you doing ?
+  </template>
+
+  <script>
+    Polymer({
+
+      is: 'harbor-app',
+
+      properties: {
+        prop1: {
+          type: String,
+          value: 'harbor-app',
+        },
+      },
+
+    });
+  </script>
+</dom-module>

@@ -1,0 +1,7 @@
+{
+  "name": "harbor-app",
+  "short_name": "harbor-app",
+  "description": "A web content pwa.",
+  "start_url": "/",
+  "display": "standalone"
+}
