@@ -1,5 +1,9 @@
 # \<harbor-app\>
 
+<a href="https://travis-ci.org/jhorback/harbor-app">
+    <img src="https://travis-ci.org/jhorback/harbor-app.svg?branch=master">
+</a>
+
 A web content pwa.
 
 ## Install the Polymer-CLI
